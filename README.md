@@ -1,4 +1,5 @@
-![image](https://github.com/SibeleTatiana/WebAggregat/assets/147422002/741b199a-9c7d-4ee3-961a-4cc3f5016852)
+![image](https://github.com/SibeleTatiana/WebAggregat/assets/147422002/aa78d553-285e-4ccd-b44f-6f7916a72adb)
+
 
 # WebAggregat
 www.aggregatescoladedanca.com.br
